@@ -1,0 +1,12 @@
+﻿[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Peyto
+Comment=The dark desktop theme with cyan highlights for Peyto Lake
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Peyto
+MetacityTheme=Peyto
+IconTheme=ZorinBlue-Dark
+CursorTheme=Adwaita
+ButtonLayout=:minimize,maximize,close
